@@ -11,7 +11,7 @@ function getPlots(id) {
         let samples = sampledata.samples.filter(smpl => smpl.id.toString() === id)[0];
           
         // slice to first ten sample values and reverse to reset 
-        // (Note: sample values already in sort order)
+        // (Note: sample values already in sort order) 
           let sampleValues =  samples.sample_values.slice(0,10).reverse();
 
         // view/confirm sample values
