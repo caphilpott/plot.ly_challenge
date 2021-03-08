@@ -14,7 +14,7 @@ function getPlots(id) {
         // (Note: sample values already in sort order) 
           let sampleValues =  samples.sample_values.slice(0,10).reverse();
 
-        // view/confirm sample values
+        // view/confirm sample values  
           console.log(sampleValues)
         
         // set lable list and limit to first ten by slicing
