@@ -18,7 +18,7 @@ function getPlots(id) {
           console.log(sampleValues)
         
         // set lable list and limit to first ten by slicing
-        // (Note: sample values already in sort order)  
+        // (Note: sample values already in sort order) 
           let label =  samples.otu_labels.slice(0,10);
 
         // view/confirm label values
