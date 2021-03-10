@@ -20,7 +20,7 @@ The "getPlots" function focused on the "Samples" section of the json file. With 
 
 The plots themselves were the easiest section to tie back to our class work. Even the gauge plot, after referencing the D3 gauge plot link, was pretty straght forward when it comes down to building a basic gauge.
 
-Creating a two line title in the gauge chart was managed just by throwing in a <br> in the middle of the line.
+Creating a two line title in the gauge chart was managed just by throwing in a "br" in the middle of the line.
 
 The get demographic data section was next. This was essentially another round of data-mining with a focus on metadata section of the json file. It was pretty straight forward as I simply gathered all metadata for the id selected and used a forEach to store and append the retrieved data. 
 
