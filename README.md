@@ -6,7 +6,7 @@ This exercise proved significantly more daunting that the previous. Though sampl
 
 In my view, there was not enough time spent connecting the dots and practicing enough variants to have some level of proficiency. 
 
-Each step was a painful series of "now how and when did we do this". I ended up using about half external sources to help point me in the right direction then went back to our course activities to find "like" material apply to the given scenario. 
+Each step was a painful series of "now how and when did we do this". I ended up using about half external sources to help point me in the right direction then went back to our course activities to find the "like" material apply it to the given scenario. 
 
 The order of the file is pretty much how it was built. I worked plots first starting with basic data capture then built the bar and moved on to build the bubble plot. I circled back after the other sections were complete and threw in the guage chart as it just made sense to keep it in one file. 
 
